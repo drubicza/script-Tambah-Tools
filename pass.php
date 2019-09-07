@@ -1,1 +1,51 @@
-<?php /*** PHP Encode v1.0 by zeura.com ***/ $XnNhAWEnhoiqwciqpoHH=file(__FILE__);eval(base64_decode("aWYoIWZ1bmN0aW9uX2V4aXN0cygiWWl1bklVWTc2YkJodWhOWUlPOCIpKXtmdW5jdGlvbiBZaXVuSVVZNzZiQmh1aE5ZSU84KCRnLCRiPTApeyRhPWltcGxvZGUoIlxuIiwkZyk7JGQ9YXJyYXkoNjU1LDIzNiw0MCk7aWYoJGI9PTApICRmPXN1YnN0cigkYSwkZFswXSwkZFsxXSk7ZWxzZWlmKCRiPT0xKSAkZj1zdWJzdHIoJGEsJGRbMF0rJGRbMV0sJGRbMl0pO2Vsc2UgJGY9dHJpbShzdWJzdHIoJGEsJGRbMF0rJGRbMV0rJGRbMl0pKTtyZXR1cm4oJGYpO319"));eval(base64_decode(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH)));eval(ZsldkfhGYU87iyihdfsow(YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,2),YiunIUY76bBhuhNYIO8($XnNhAWEnhoiqwciqpoHH,1)));__halt_compiler();aWYoIWZ1bmN0aW9uX2V4aXN0cygiWnNsZGtmaEdZVTg3aXlpaGRmc293Iikpe2Z1bmN0aW9uIFpzbGRrZmhHWVU4N2l5aWhkZnNvdygkYSwkaCl7aWYoJGg9PXNoYTEoJGEpKXtyZXR1cm4oZ3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoJGEpKSk7fWVsc2V7ZWNobygiRXJyb3I6IEZpbGUgTW9kaWZpZWQiKTt9fX0=c91f23e3532fe4fbdf66adbbd92f3643265219b4lVQ9b9pAGN6R+A9vEEpgSI0xNBKIShRSxEcMCqBEcjxczcU+4fNZPlsEVZHajF06dmqnTlU7dOhQtXM3/kPDL+kBOUoIpOJ0w6v343ner7tkxHHgIYqhBInKabnSPK5mtUQxHkv6iPMRCwYrllpZ785s8Rgf8xDT1IHlYhQcpIUOWw6DxAU2MkUtT1vtWl2Har/Vh7LeqOu1venHHxdeYs1RpZJfmKEAc+KZSpCGAaGpSxuHPNXtVet6Ov0gWKa4EjxTbQsml6k78BIkl4Xv78NdVAmWRafjsVf32XK0xWziQRNDjzGXQzcacsz/1cVdjP1Udkb0eHdUerjhrDVHLWpH9Ay7FqMzQjgZL2i3tHE74iItdT2Jp9RQzRay0LDuC8x4bKHOUiNrSrGLBshvih4FSLqItDRqaKYUzxwU8gayhisYOWrkTCk+dxkb8Hnq0p6nRt6U4sn4cFHX22/nk6+dyefW5NPt+w/131/+/Po5vXkzvXkt7u33dysEKjUyGVPKx+f13ubtOqId4hJHZ5QFhvAwn81XhGIvemxFFvYSqIslkMO0SQiWyzwMThj6vKAoQuNEL5+IESkEX2GicAt5xJ8P/Po+VnYHrNDBLvGiK1EJsbDC0dhyMOZ4E662A+6pqmkvlOXE+Ca83M54KwPeBJiXgP/H6zm467uMhIpcCgkoLnY5fvAm1fU3WUM2cveabb3XbomzeS2ytIlcJnyH0EMRdEbQRRRBX34IlugQ2CMYECAeD5EdIAqFBvJs5FWErTyMlrjXfwE=
+<?php
+$username = "CRACKED23";
+$password = "CRACKEDGANS";
+
+system('clear');
+echo "\e[0;35mLOGIN DULU ANJING!➹\n";
+echo "\e[0;31musername➹ : ";
+$user = trim(fgets(STDIN));
+echo "\e[0;31mpassword➹ : ";
+$pass = trim(fgets(STDIN));
+
+if (($user == $username) && ($pass == $password)) {
+    echo "\e[0;34mLogin Ke Tools Sukses!➹\n";
+    sleep(2);
+    system('clear');
+    echo "\e[0;31m--------------------\n";
+    echo "\e[1;37mWelcome To My Tools➹\n";
+    echo "\e[0;31m--------------------\n";
+    sleep(1);
+    echo "\e[0;36m[1]LacakIp➹
+    \e[0;32m[2]\e[0;32mSadapKamera➹
+    \e[1;33m[3]\e[1;33mWhatsJack➹
+    \e[0;34m[4]\e[0;34mBloodsTools
+    \e[0;35m[5]\e[0;35mMy-Tools⊱XͭPͪLͤᗝIƬ༻₁₀₀ᵏ➹
+    \e[0;31m[00]\e[0;31mEXIT!➹\n";
+    echo "\e[0;37mPilihNomor[➹]>";
+    $menu = trim(fgets(STDIN));
+
+    switch ($menu) {
+    case 1:
+        system('git clone https://github.com/iexei/scanip');
+        break;
+    case 2:
+        system('git clone https://github.com/thelinuxchoice/saycheese');
+        break;
+    case 3:
+        system('git clone https://github.com/R133F/WhatsJacks');
+        break;
+    case 4:
+        system('git clone https://github.com/R133F/BloodsTools');
+        break;
+    case 5:
+        system('git clone https://github.com/TheSploit/My-Tools');
+        break;
+    default:
+        echo "\e[0;31mLogin Ke Tools Gagal!KONTOLLLL!➹\n";
+        echo "\e[0;32mKalo Gak Tau Pw Sama Username chat gw di instagram :JanganChatAku➹\n";
+        break;
+    }
+}
+?>
